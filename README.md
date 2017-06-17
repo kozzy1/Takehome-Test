@@ -2,8 +2,8 @@ This code is written in Python, and is executed successfully under Ubuntu 16.04 
 
 install.sh
 ===========
-For Ubuntu 14.04 and 16.04 Only
-For other　linux　distributions, check the details of this file and rewrite it
+For Ubuntu 14.04 and 16.04 Only.  
+For other linux distributions, check the details of this file and rewrite it.  
 Install required dependencies and caffe2
 Download Deep Learning Models (SqueezeNet)
 Install CuDNN 5.1 if CUDA is installed 
