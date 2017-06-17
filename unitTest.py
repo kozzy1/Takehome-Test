@@ -17,6 +17,11 @@ request = json.loads(json_str)
 
 response = processJson(request, conf_thres)
 
+print response
+print 'save the output in file "response.json" ...'
+
 ouput_json_file = open(ouput_json_filename, "w")
 ouput_json_file.write(response)
 ouput_json_file.close()
+
+print "done!"

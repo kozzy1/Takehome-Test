@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "url": "https://www.petfinder.com/wp-content/uploads/2012/11/91615172-find-a-lump-on-cats-skin-632x475.jpg", 
+      "classes": [
+        {
+          "confidence": 0.6425324082374573, 
+          "class": "Egyptian cat"
+        }, 
+        {
+          "confidence": 0.21097250282764435, 
+          "class": "tiger cat"
+        }, 
+        {
+          "confidence": 0.1219572126865387, 
+          "class": "tabby, tabby cat"
+        }
+      ]
+    }, 
+    {
+      "url": "http://cdn2-www.dogtime.com/assets/uploads/gallery/shih-tzu-dog-breed-pictures/shih-tzu-breed-picture-8.jpg", 
+      "classes": [
+        {
+          "confidence": 0.8141369819641113, 
+          "class": "Lhasa, Lhasa apso"
+        }, 
+        {
+          "confidence": 0.14775213599205017, 
+          "class": "Shih-Tzu"
+        }
+      ]
+    }, 
+    {
+      "url": "http://www.franklincountydogs.com/adopt/assets/images/adoptable-name.jpg", 
+      "classes": [
+        {
+          "confidence": 0.38823384046554565, 
+          "class": "Shih-Tzu"
+        }, 
+        {
+          "confidence": 0.24452556669712067, 
+          "class": "Lhasa, Lhasa apso"
+        }, 
+        {
+          "confidence": 0.2126656025648117, 
+          "class": "Tibetan terrier, chrysanthemum dog"
+        }, 
+        {
+          "confidence": 0.07871367782354355, 
+          "class": "Japanese spaniel"
+        }
+      ]
+    }, 
+    {
+      "url": "https://static.houselogic.com/content/images/5-ways-live-happily-clutter-bug_411d209af86a730270deb7b198d782dc.jpg", 
+      "classes": [
+        {
+          "confidence": 0.500966489315033, 
+          "class": "go-kart"
+        }, 
+        {
+          "confidence": 0.10473304241895676, 
+          "class": "desk"
+        }, 
+        {
+          "confidence": 0.061928246170282364, 
+          "class": "washbasin, handbasin, washbowl, lavabo, wash-hand basin"
+        }, 
+        {
+          "confidence": 0.05441443994641304, 
+          "class": "sewing machine"
+        }
+      ]
+    }, 
+    {
+      "url": "https://aaa.bbb/ccc.jpg", 
+      "error": "Invalid URL"
+    }, 
+    {
+      "url": "12345", 
+      "error": "False URL"
+    }, 
+    {
+      "url": "https://ddd.eee/fff.ggg", 
+      "error": "Unsupported Image Format"
+    }
+  ]
+}
