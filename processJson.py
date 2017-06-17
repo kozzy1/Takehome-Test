@@ -17,9 +17,6 @@ def exists(path):
         return False
     return r.status_code == requests.codes.ok
 
-conf_thres = 0.05
-
-
 def processJson(request, conf_thres):
     init_net = mynet.init_net
     predict_net = mynet.predict_net
