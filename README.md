@@ -1,4 +1,4 @@
-This code is written in Python, and is executed successfully under Ubuntu 16.04 and Caffe2.
+This code is written in Python 2.7, and is executed successfully under Ubuntu 16.04 and Caffe2.
 
 install.sh
 ===========
