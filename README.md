@@ -24,14 +24,18 @@ detect.py
 ============
 Detect one image
 
-request.json
-============
-A sample of request json file
-
-
 classnamelist.txt
 ============
 The list of class names
+
+request.json
+============
+The request json sample 
+
+response.json
+============
+The response result of the request json sample 
+
 
 
 
